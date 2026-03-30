@@ -106,7 +106,7 @@ h6 {
 .top-header h1 {
     font-size: 5vw;
     font-weight: 700;
-    color: rgb(201, 209, 209);
+    color:#ffffff;
     
 }
 
@@ -250,7 +250,7 @@ h6 {
 }
 
 .nav-menu a {
-    padding: 22px 15px;
+    padding: 22px 26px;
     text-decoration: none;
     display: inline-block;
     color: #ffffff;
@@ -1152,5 +1152,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 .font {
     font-family: fantasy;
     font-size: 40px;
-    margin-top: -54px;
+    margin-top: 25px;
 }
+
